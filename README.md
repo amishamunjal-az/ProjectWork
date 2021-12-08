@@ -304,4 +304,4 @@ The logs and alerts generated during the assessment suggest that this network is
     - HIDS monitors and analyzes internals of computing systems. 
         - They also monitor and analyze network packets.
 
-![Final Presentation](https://docs.google.com/presentation/d/1At-3tj3T9q7OW9M7Km7laqI3d8OZ8_tA/edit#slide=id.p2)
+![Final Presentation](https://docs.google.com/presentation/d/1At-3tj3T9q7OW9M7Km7laqI3d8OZ8_tA/edit?usp=sharing&ouid=103802444431092013301&rtpof=true&sd=true)
