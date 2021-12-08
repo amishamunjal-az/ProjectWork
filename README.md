@@ -1,4 +1,3 @@
-# ProjectWork
 #The objective was to practice a number of different things learned throughout the bootcamp course and to act as a pentester and SOC analyst.
 
 - Implement alarms and thresholds in Elasticsearch Watcher.
@@ -304,3 +303,5 @@ The logs and alerts generated during the assessment suggest that this network is
         - Any modern antivirus usually covers more than viruses and are a robust solution to protecting a computer in general.
     - HIDS monitors and analyzes internals of computing systems. 
         - They also monitor and analyze network packets.
+
+![Final Presentation](https://docs.google.com/presentation/d/1At-3tj3T9q7OW9M7Km7laqI3d8OZ8_tA/edit#slide=id.p2)
