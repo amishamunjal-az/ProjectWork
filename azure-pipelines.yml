@@ -17,3 +17,12 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+- task: Veracode@3
+  inputs:
+    ConnectionDetailsSelection: 'Credentials'
+    apiId: '3978a9cc19c93290a1ff335c1316c224'
+    apiKey: 'e0e70de8840047231f2a6049de09a9427042ef0c04c33cbe9b2d47a058f0fa58e3518e908cc5648fc7fd743d3657ce8aa5e2f2d6c397280b7812c36585ecf376'
+    veracodeAppProfile: 'Test-Application'
+    version: 'Test-Application-Scan'
+    filepath: '$(build.artifactstagingdirectory)'
+    maximumWaitTime: '360'
